@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here] (https://qr-code-card-opal.vercel.app/)
+- Live Site URL: (https://qr-code-card-opal.vercel.app/)
 
 ## My process
 
