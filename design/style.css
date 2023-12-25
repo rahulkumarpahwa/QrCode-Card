@@ -1,0 +1,44 @@
+body {
+  background-color: #d5e1ef;
+  display: flex;
+  justify-content: center;
+  font-family: "Outfit", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.main {
+  border: 1px solid #fff;
+  background-color: #fff;
+  border-radius: 20px;
+  width: 222px;
+  height: 375px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+
+}
+
+.qr-image {
+  width: 223px;
+  height: 209px;
+  border-radius: 15px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 15px;
+}
+
+.heading {
+  margin-top: 15px;
+  color: #202e47;
+}
+
+.desc {
+  margin-top: 10px;
+  color: #abafb7;
+  font-size: 13px;
+}
